@@ -11,7 +11,7 @@
     <parameters>
         <parameter>
             <name>API_KEY</name>
-            <default_value>nydT1UNebE1Q7YWTmiYSK0B6tRcBtXcjoHTzUjl1</default_value>
+            <default_value>DEMO_KEY</default_value>
             <description>https&#x3a;&#x2f;&#x2f;api.nasa.gov&#x2f;index.html&#x23;apply-for-an-api-key</description>
         </parameter>
         <parameter>
